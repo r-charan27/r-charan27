@@ -1,4 +1,4 @@
-<# 👋 Hi there, I'm Ramcharan!
+👋 Hi there, I'm Mummadi Ramcharan!
 
 ## 🎓 Engineering Student | Tech Enthusiast
 

@@ -54,13 +54,9 @@ I love applying technology to solve real-world problems and constantly seek to i
 </p>
 
 ---
-## 📌 Top Contributed Repositories
+## 📌 Areas of Focus
 
-Here are a few repositories where I contribute and learn the most:
-
-- 🔗 [your-top-repo-1](https://github.com/r-charan27/your-top-repo-1)
-- 🔗 [your-top-repo-2](https://github.com/r-charan27/your-top-repo-2)
-- 🔗 [your-top-repo-3](https://github.com/r-charan-27/your-top-repo-3)
+I actively work on engineering projects that explore Machine Learning, Deep Learning, and Full Stack Web Development. I'm committed to continuous learning and open to contributing to impactful tech solutions.
 
 ---
 

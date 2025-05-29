@@ -34,10 +34,8 @@ I love applying technology to solve real-world problems and constantly seek to i
 ---
 
 ##  📊 top languages I used
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-charan27&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
----
+![Ramcharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-charan27&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-charan27&layout=compact&theme=radical)
 
 ## 🧠 Languages I've Worked With
 

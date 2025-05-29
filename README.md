@@ -70,5 +70,5 @@ I actively work on engineering projects that explore Machine Learning, Deep Lear
 
 ---
 
-> _"Engineering isn't just a degree, it's a mindset."_ 🚀
+> _ 🚀"Engineering isn't just a degree, it's a mindset."_ 🚀
 > _"Keep learning, keep building."_ 🚀

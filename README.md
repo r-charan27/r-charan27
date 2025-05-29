@@ -31,15 +31,19 @@ I love applying technology to solve real-world problems and constantly seek to i
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r-charan27&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
+---
+##  📊 top languages I used
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-charan27&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-## 📚 Most Used Languages
+---
+## 🧠 Languages I've Worked With
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-charan27&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![8086 Assembly](https://img.shields.io/badge/-8086%20Assembly-555555?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ---
 

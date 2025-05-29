@@ -14,11 +14,10 @@ I love applying technology to solve real-world problems and constantly seek to i
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, C++, HTML, Markdown  
-- **Frameworks**: TensorFlow, Keras, Streamlit, Scikit-learn  
+- **Languages**: Python, SQL, Java, C 
+- **Frameworks**: TensorFlow, Keras, Streamlit, Scikit-learn
 - **Tools**: Git, VS Code, OpenCV, NumPy, Pandas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)

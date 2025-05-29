@@ -17,6 +17,13 @@ I love applying technology to solve real-world problems and constantly seek to i
 - **Languages**: Python, C++, HTML, Markdown  
 - **Frameworks**: TensorFlow, Keras, Streamlit, Scikit-learn  
 - **Tools**: Git, VS Code, OpenCV, NumPy, Pandas  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -32,6 +39,33 @@ I love applying technology to solve real-world problems and constantly seek to i
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=r-charan27&theme=tokyonight&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-charan27&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+## 📌 Top Contributed Repositories
+
+Here are a few repositories where I contribute and learn the most:
+
+- 🔗 [your-top-repo-1](https://github.com/r-charan27/your-top-repo-1)
+- 🔗 [your-top-repo-2](https://github.com/r-charan27/your-top-repo-2)
+- 🔗 [your-top-repo-3](https://github.com/r-charan-27/your-top-repo-3)
+
+---
+
+
+
 ## 📫 Connect with Me
 
 - 📧 Email: *mummadicharan27@gmail.com*  
@@ -41,3 +75,4 @@ I love applying technology to solve real-world problems and constantly seek to i
 ---
 
 > _"Engineering isn't just a degree, it's a mindset."_ 🚀
+> _"Keep learning, keep building."_ 🚀

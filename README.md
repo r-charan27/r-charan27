@@ -35,6 +35,11 @@ I love applying technology to solve real-world problems and constantly seek to i
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-charan27&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-charan27&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 

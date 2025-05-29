@@ -64,7 +64,9 @@ I love applying technology to solve real-world problems and constantly seek to i
 I actively work on engineering projects that explore Machine Learning, Deep Learning, and Full Stack Web Development. I'm committed to continuous learning and open to contributing to impactful tech solutions.
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramcharan-mummadi-5973a72a3/)
 
+---
 
 
 ## 📫 Connect with Me

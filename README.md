@@ -76,8 +76,8 @@ I actively work on engineering projects that explore Machine Learning, Deep Lear
 ---
 ## 📜 Badges
 
-![Python Essentials 1](https://github.com/r-charan27/r-charan27/blob/7fab8ef1496b726083ebe55c30424634ed50ea01/python-essentials-1.1.png)
-![CCNA: Introduction to Networks]([https://github.com/RAHUL-KOPPULA/RAHUL-KOPPULA/raw/main/ccna-introduction-to-networks.png](https://github.com/r-charan27/r-charan27/blob/7fab8ef1496b726083ebe55c30424634ed50ea01/ccna-introduction-to-networks.png))
+![Python Essentials 1](https://github.com/r-charan27/r-charan27/blob/main/python-essentials-1.1%20(1).png)
+![CCNA: Introduction to Networks](https://github.com/r-charan27/r-charan27/blob/main/ccna-introduction-to-networks%20(1).png)
 
 ---
 

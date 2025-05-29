@@ -33,7 +33,7 @@ I love applying technology to solve real-world problems and constantly seek to i
 ##  📊 top languages I used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-charan27&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 ---
 

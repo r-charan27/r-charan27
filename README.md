@@ -32,11 +32,13 @@ I love applying technology to solve real-world problems and constantly seek to i
   <img src="https://github-readme-stats.vercel.app/api?username=r-charan27&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 ---
+
 ##  📊 top languages I used
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-charan27&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 ---
+
 ## 🧠 Languages I've Worked With
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

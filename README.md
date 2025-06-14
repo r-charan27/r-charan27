@@ -8,7 +8,7 @@ I'm currently pursuing my **Bachelor of Technology (B.Tech)** with a strong inte
 - 🖥️ Deep Learning and Computer Vision  
 - 🌐 Web Technologies and Application Development  
 
-I love applying technology to solve real-world problems and constantly seek to improve my skills in data science, programming, and system design.
+I love applying technology to solve real-world problems and constantly seek to improve my skills in m.l, data science, programming, and system design.
 
 ---
 

@@ -12,11 +12,11 @@ I love applying technology to solve real-world problems and constantly seek to i
 
 ---
 Open Source Contributor | ECWoC 2026
-
+---
 Interested in software development and problem solving
 ---
 Location: India
-
+---
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, SQL, Java, C 

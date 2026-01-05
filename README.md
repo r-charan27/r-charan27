@@ -91,4 +91,4 @@ I actively work on engineering projects that explore Machine Learning, Deep Lear
 - 💻 Always learning, always building.
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=r-charan27" />
+

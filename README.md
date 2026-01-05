@@ -11,6 +11,9 @@ I'm currently pursuing my **Bachelor of Technology (B.Tech)** with a strong inte
 I love applying technology to solve real-world problems and constantly seek to improve my skills in m.l, data science, programming, and system design.
 
 ---
+Open Source Contributor | ECWoC 2026
+Interested in software development and problem solving
+Location: India
 
 ## 🛠️ Tech Stack
 
